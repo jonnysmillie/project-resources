@@ -4,7 +4,7 @@
 ---
 
 #### URLs
-##### Please list any relevant URLs below.
+##### Please list any relevant URLs:
    * Link 1
    * Link 2
 
