@@ -2,7 +2,7 @@
 
 ## A set of useful resources for projects.
 
-### Templates for creating tickets
+### Templates for creating detailed requests
 
 * [Feature request](/feature-request.md)
 * [Content change request](/content-change.md)
