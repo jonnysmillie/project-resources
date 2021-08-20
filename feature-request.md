@@ -2,6 +2,10 @@
 
 ## A template for making feature requests for websites and online assets.
 
+Some features may be trivial to release but some can take a while to develop. The more information you can provide in your feature request the easier it will be to make sense of and implement.
+
+---
+
 _Perhaps you need to make a [content change request](/content-change-request.md), or a [hotfix request](/hotfix-request.md), or [report a bug](/bug-report.md) instead._
 
 ---
