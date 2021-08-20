@@ -3,6 +3,10 @@
 ## A set of useful resources for projects.
 
 ---
+### User Experience
+
+* [UX Project Checklist](https://uxchecklist.github.io/)
+---
 ### Workflow
 
 #### Templates for creating detailed requests
@@ -11,8 +15,4 @@
 * [Content change request](/content-change.md)
 * [Report a bug](/bug-report.md)
 * [Hotfix request](./hotfix-request.md)
----
-### User Experience
-
-* [UX Project Checklist](https://uxchecklist.github.io/)
 ---
