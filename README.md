@@ -15,4 +15,6 @@
 * [Content change request](/content-change.md)
 * [Report a bug](/bug-report.md)
 * [Hotfix request](./hotfix-request.md)
+
+* [NewGithub Issues Beta](https://github.com/features/issues/)
 ---
