@@ -2,7 +2,7 @@
 
 ## A template for making content requests for websites and online assets.
 ---
-##### _Perhaps you need to make a [feature request](/feature-request.md)._
+_Perhaps you need to make a [feature request](/feature-request.md)._
 ---
 
 #### URLs
