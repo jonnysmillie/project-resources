@@ -15,9 +15,9 @@ _Perhaps you need to make a [feature request](/feature-request.md), or a [conten
 
 ---
 1. Who is requesting this:
-    * Individual.
-    * Team.
-    * Email or username.
+    * Individual
+    * Team
+    * Email or username
 
 2. Please describe the issue that needs to be fixed.
 
