@@ -1,6 +1,7 @@
 # Feature Request Template
 
 ## A template for making feature requests for websites and online assets.
+---
 
 #### URLs
 ##### Please list any relevant URLs below.
