@@ -2,7 +2,7 @@
 
 ## A content change request is a demand for the content (usually text and images) on a website to be added, edited, removed or replaced.
 
-Content changes are usually easy to make. Consider whether a developer is needed to update the content you need to be changed.
+Content changes can be easy to make. Consider whether a developer is needed to update the content you need to be changed.
 
 ---
 
