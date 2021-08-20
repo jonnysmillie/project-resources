@@ -1,5 +1,7 @@
 # Bug Report
-## A bug report template.
+## A bug is an error, fault or flaw in a website. Please report any bugs you are aware of.
+
+When is a bug not a bug? When it's a feature.
 
 ---
 
