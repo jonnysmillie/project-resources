@@ -5,8 +5,9 @@
 
 #### URLs
 ##### Please list any relevant URLs:
-   * Link 1
-   * Link 2
+   * [Website](#)
+   * [Design files](#)
+   * [Other resources]()
 
 ---
 
@@ -20,11 +21,16 @@
     * Email or username.
 
 3. ### Describe the problem that the user has:
-    * What is the problem the user has?
+    * What is the problem?
+    * Describe the impact that this has on the user.
+    * 
+    * How does this featue solve the problem?
+    * What are the pros and cons of this feature for the user?
+    * Please list any possible alternative solutions.
 
-
-4. ### Describe the impact that this has on the user:
-    * How will this request resolve the problem the user has?
+4. ### Describe the feature that solves this problem.
+    * What is the feature called? (e.g. "FAQ section", "Blog section", "Image carousel", "Calculator", "Modal")
+    * Is this feature custom/unique?
 
 5. ### Describe the reach of this problem:
     * How many users will be impacted by this change?
