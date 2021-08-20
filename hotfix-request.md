@@ -14,11 +14,13 @@ _Perhaps you need to make a [feature request](/feature-request.md), or a [conten
    * [Website that needs a hotfix](#)
 
 ---
+1. Who is requesting this:
+    * Individual.
+    * Team.
+    * Email or username.
 
-1. Please describe the issue that needs to be fixed.
+2. Please describe the issue that needs to be fixed.
 
-2. Please describe the urgency of this fix.
+3. Please describe the urgency of this fix.
 
-3. Which device, browser, and operating system have you used to observe the problem?
-
-4. 
+4. Which device, browser, and operating system have you used to observe the problem?
