@@ -1,7 +1,7 @@
 # Hotfix Request
 ## A hotfix is an urgent request to fix or change something on an already existing website that is urgent.
 
-A hotfix will prioritised and likely be dealt with in 24 hours or sooner.
+A hotfix will prioritised and normally be dealt with in 24 hours or sooner.
 
 ---
 
