@@ -23,10 +23,7 @@
 3. ### Describe the problem that the user has:
     * What is the problem?
     * Describe the impact that this has on the user.
-    * 
-    * How does this featue solve the problem?
     * What are the pros and cons of this feature for the user?
-    * Please list any possible alternative solutions.
 
 4. ### Describe the feature that solves this problem.
     * What is the feature called? (e.g. "FAQ section", "Blog section", "Image carousel", "Calculator", "Modal")
