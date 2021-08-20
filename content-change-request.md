@@ -1,6 +1,10 @@
-# Content Change Request Template
+# Content Change Request
 
-## A template for making content requests for websites and online assets.
+## A content change request is a demand for the content (usually text and images) on a website to be added, edited, removed or replaced.
+
+Content changes are usually easy to make. Consider whether a developer is needed to update the content you need to be changed.
+
+---
 
 _Perhaps you need to make a [feature request](/feature-request.md), or a [hotfix request](/hotfix-request.md), or [report a bug](/bug-report.md) instead._
 
