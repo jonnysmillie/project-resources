@@ -13,26 +13,25 @@
 
 3. ### Describe the problem that the user has:
     * What is the problem the user has?
-    * How will this solution resolve it?
 
 
 4. ### Describe the impact that this has on the user:
-    * articulate how solving this problem will make your user’s life better. You can add impact categories that matter to you to ensure consistency.
+    * How will this request resolve the problem the user has?
 
 5. ### Describe the reach of this problem:
-    * requester will describe how many users will be positively impacted or leverage this feature.
+    * How many users will be impacted by this change?
 
 6. ### Describe the cost of not doing this request:
-    * describe the problems that would occur if this need was not addressed. To ensure consistency add categories that matter to your business such as “increased support costs” or “risk of losing customers”
+    * What is the cost of not implementing this change?
 
 7. ### Describe which business goals this helps:
-    * enumerate your company’s product/business goals and ask the requester to tie the ask to it
+    * Which business goals does this request help achieve?
 
 8. ### Describe the evidence that you have on the need for this request:
-    * validation of user problem and desired outcome
+    * Please provide screenshots and/or a description to backup the need for this request.
 
-9. ### Describe if you have any ideas on how we may solve this:
-    * give the requester the space to help and suggest ideas
+9. ### Describe if you have any other ideas on how we may solve this:
+    * Please describe any other ideas or solutions you may have regarding this request.
 
 10. ### Describe how urgent this is and why:
-    * give the requester the space to give insight into the urgency of this issue and why
+    * Please give insight into the urgency of this issue and why.
