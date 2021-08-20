@@ -2,14 +2,19 @@
 
 ## A template for making feature requests for websites and online assets.
 
-1. **Type of request**:
-    * describe if this a one-off feature or a series of features
+1. ### Type of request:
+    * One off.
+    * Part of a series (please provide a name that refers to the series of features).
 
 2. **Who is requesting this**:
-    * identify themselves and their team so that you can easily follow up with them.
+    * Individual.
+    * Team.
+    * Email or username.
 
 3. **Describe the problem that the user has**:
-    * add the problem that the user has. This is key for you to differentiate between people that have deeply thought about what problem this will solve for users versus those that are just in love with their idea.
+    * What is the problem the user has?
+    * How will this solution resolve it?
+
 
 4. **Describe the impact that this has on the user**:
     * articulate how solving this problem will make your user’s life better. You can add impact categories that matter to you to ensure consistency.
