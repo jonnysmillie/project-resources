@@ -38,7 +38,8 @@
     * Please provide screenshots and/or a description to backup the need for this request.
 
 9. ### Describe if you have any other ideas on how we may solve this:
-    * Please describe any other ideas or solutions you may have regarding this request.
+    * Other ideas.
 
 10. ### Describe how urgent this is and why:
     * Please give insight into the urgency of this issue and why.
+    * Deadline.
