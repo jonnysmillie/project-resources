@@ -16,6 +16,6 @@
 * [Report a bug](/bug-report.md)
 * [Hotfix request](./hotfix-request.md)
 
-
+#### Other useful links
 * [New Github Issues Beta](https://github.com/features/issues/)
 ---
