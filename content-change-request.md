@@ -2,6 +2,8 @@
 
 ## A template for making content requests for websites and online assets.
 ---
+Perhaps you need to make a [feature request](/feature-request).
+---
 
 #### URLs
 ##### Please list any relevant URLs:
