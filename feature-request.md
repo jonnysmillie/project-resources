@@ -1,7 +1,6 @@
 # Feature Request Template
 
 ## A template for making feature requests for websites and online assets.
----
 
 _Perhaps you need to make a [content change request](/content-change-request.md), or a [hotfix request](/hotfix-request.md), or [report a bug](/report-bug.md) instead._
 
