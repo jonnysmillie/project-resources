@@ -3,6 +3,10 @@
 ## A template for making feature requests for websites and online assets.
 ---
 
+_Perhaps you need to make a [content change request](/content-change-request.md) instead._
+
+---
+
 #### URLs
 ##### Please list any relevant URLs:
    * [Website](#)
