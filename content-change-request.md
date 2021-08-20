@@ -3,7 +3,7 @@
 ## A template for making content requests for websites and online assets.
 ---
 
-_Perhaps you need to make a [feature request](/feature-request.md) instead._
+_Perhaps you need to make a [feature request](/feature-request.md), or a [hotfix request](/hotfix-request.md), or [report a bug](/report-bug.md) instead._
 
 ---
 
