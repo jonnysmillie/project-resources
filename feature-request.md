@@ -13,6 +13,11 @@ _Perhaps you need to make a [content change request](/content-change-request.md)
    * [Design files](#)
    * [Other resources]()
 
+#### Stakeholders
+##### Please list any relevant stakeholders:
+   * Mr Stakeholder.
+   * Mrs Stakeholder.
+
 ---
 
 1. #### Type of request:
