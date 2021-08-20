@@ -13,6 +13,11 @@ _Perhaps you need to make a [feature request](/feature-request.md) instead._
    * [New content](#)
    * [Other resources]()
 
+#### Stakeholders
+##### Please list any relevant stakeholders:
+   * Mr Stakeholder.
+   * Mrs Stakeholder.
+
 ---
 
 1. #### Type of request:
