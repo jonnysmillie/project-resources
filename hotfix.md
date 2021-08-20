@@ -3,7 +3,7 @@
 
 ---
 
-_Perhaps you need to make a [feature request](/feature-request.md), or a [content change request](/content-change-request.md), or a [bug fix](/bug-fix.md) instead._
+_Perhaps you need to make a [feature request](/feature-request.md), or a [content change request](/content-change-request.md), or [report a bug](/bug-report.md) instead._
 
 ---
 
