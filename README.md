@@ -5,6 +5,6 @@
 ### Templates for creating tickets
 
 * [Feature request](/feature-request.md)
-* [Content change](/content-change.md)
+* [Content change request](/content-change.md)
 * [Report a bug](/bug-report.md)
-* [Hotfix](./hotfix.md)
+* [Hotfix request](./hotfix.md)
