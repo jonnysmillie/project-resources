@@ -27,8 +27,8 @@ _Perhaps you need to make a [content change request](/content-change-request.md)
 
 2. Who is requesting this:
     * Individual
-    * Team.
-    * Email or username.
+    * Team
+    * Email or username
 
 3. Describe the problem that the user has:
     * What is the problem?
@@ -36,7 +36,7 @@ _Perhaps you need to make a [content change request](/content-change-request.md)
     * What are the pros and cons of this feature for the user?
 
 4. Describe the feature that solves this problem.
-    * What is the feature called? (e.g. "FAQ section", "Blog section", "Image carousel", "Calculator", "Modal")
+    * What is the feature called?
     * Is this feature custom/unique?
 
 5. Describe the reach of this problem:
@@ -52,8 +52,8 @@ _Perhaps you need to make a [content change request](/content-change-request.md)
     * Please provide screenshots and/or a description to backup the need for this request.
 
 9. Describe if you have any other ideas on how we may solve this:
-    * Other ideas.
+    * Other ideas
 
 10. Describe how urgent this is and why:
     * Please give insight into the urgency of this issue and why.
-    * Deadline.
+    * Deadline
